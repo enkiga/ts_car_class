@@ -28,13 +28,13 @@ To run this application locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/enkiga/ts_car_class
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd <project_directory>
+    cd ts_car_class
     ```
 
 3. **Install TypeScript (if not already installed):**
